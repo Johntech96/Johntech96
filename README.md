@@ -1,4 +1,4 @@
-# Hey, I'm John — Technologist, Ethical Hacker & Builder from Bangalore
+# Hey, I'm John — Technologist, Ethical Hacker & Builder from Delhi
 
 I explore the edges of technology — blending **machine learning**, **cybersecurity**, **automation**, and **deep tech** to build tools that matter.
 
